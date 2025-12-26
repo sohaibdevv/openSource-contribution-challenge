@@ -1,4 +1,4 @@
-# First Contribution Challenge
+# Open Source Contribution Challenge
 
 Welcome! This challenge helps you make your **first-ever Pull Request (PR)** by doing one simple thing:
 
